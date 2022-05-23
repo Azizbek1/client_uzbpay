@@ -6,14 +6,14 @@ export const customStyles = {
     },
     headCells: {
         style: {
-            border: '1px solid #4e73df',
+            border: '1px solid #d0d0d0',
             fontWeight: "700",
             fontSize: "18px",
         },
     },
     cells: {
         style: {
-            border: '1px solid #4e73df',
+            border: '1px solid #d0d0d0',
 
         },
     },
